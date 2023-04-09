@@ -15,7 +15,7 @@ function App() {
       <Profile
         fullName="Thamer lefi"    //
         bio={bio}                 // you can remove these props to check the default props
-        profession="mern stack"   //
+        profession="mern stack devolopper"   //
         handle={handleName}>
         <img src={me} alt="" style={{ width: "200px", objectFit: "cover",
                             borderRadius:'50%', border:'3px solid yellow',}} />
